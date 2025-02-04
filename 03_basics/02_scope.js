@@ -44,7 +44,7 @@ function addone(num){
     addone(5)
 
 
-conat addTwo = function(num){
+const addTwo = function(num){
     return num + 2
 }
 addtwo(5)
